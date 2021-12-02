@@ -1,8 +1,8 @@
 //TODO: 1. Given a number. Print 'odd' if the number is odd and 'even' if it's even.
 
-function printOddEven(inputNumber){
-    const printText = inputNumber % 2 === 0 ? 'even' : 'odd';
-    return printText;
+function printOddEven(inputNumber) {
+  const printText = inputNumber % 2 === 0 ? 'even' : 'odd';
+  return printText;
 }
 
 //? Testing numbers 125, 35, 20
