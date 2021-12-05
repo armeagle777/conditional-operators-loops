@@ -16,6 +16,7 @@
         <summary>Print 'Odd' || 'Even'</summary>
         <em>Given a number. Print “odd” if the number is odd and “even” if itʼs even.</em>
         <br>
+        [I'm an inline-style link](https://www.google.com)
         [Solutin:]:https://github.com/armeagle777/objects-and-arrays/blob/master/homeTasks/requiredTasks/printOddEven.js
     </details>
     <details>
