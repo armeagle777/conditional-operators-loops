@@ -16,7 +16,7 @@
         <summary>Print 'Odd' || 'Even'</summary>
         <em>Given a number. Print “odd” if the number is odd and “even” if itʼs even.</em>
         <br>
-        [Solutin:](https://github.com/armeagle777/objects-and-arrays.git/master/homeTasks/requiredTasks/printOddEven.js)
+        ['Solutin:'](https://github.com/armeagle777/objects-and-arrays.git/master/homeTasks/requiredTasks/printOddEven.js)
     </details>
     <details>
         <summary>Find the third angle</summary>
